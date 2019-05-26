@@ -1,6 +1,5 @@
 package eu.infoshare.pl.builder;
 
-import eu.infoshare.pl.Address;
 import lombok.Builder;
 import lombok.experimental.Delegate;
 

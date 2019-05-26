@@ -1,4 +1,4 @@
-package eu.infoshare.pl;
+package eu.infoshare.pl.builder;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

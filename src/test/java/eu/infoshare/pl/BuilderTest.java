@@ -1,9 +1,8 @@
 package eu.infoshare.pl;
 
 import eu.infoshare.pl.builder.Sample;
+import eu.infoshare.pl.builder.Address;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class BuilderTest {
 
