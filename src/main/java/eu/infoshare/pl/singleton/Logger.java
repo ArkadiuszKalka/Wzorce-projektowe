@@ -1,4 +1,4 @@
-package eu.infoshare.pl;
+package eu.infoshare.pl.singleton;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
